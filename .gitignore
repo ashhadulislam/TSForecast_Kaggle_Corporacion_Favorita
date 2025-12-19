@@ -1,0 +1,68 @@
+# ----------------------
+# Data files
+# ----------------------
+*.csv
+*.zip
+*.parquet
+*.json
+
+# Kaggle datasets / raw data folders
+data/
+datasets/
+raw_data/
+input/
+
+# ----------------------
+# Model artifacts
+# ----------------------
+*.pkl
+*.joblib
+*.bin
+*.model
+*.txt
+
+# ----------------------
+# Outputs / submissions
+# ----------------------
+submissions/
+forecasts/
+predictions/
+outputs/
+
+# ----------------------
+# Python cache
+# ----------------------
+__pycache__/
+*.py[cod]
+
+# ----------------------
+# Virtual environments
+# ----------------------
+.venv/
+venv/
+env/
+
+# ----------------------
+# Jupyter
+# ----------------------
+.ipynb_checkpoints/
+
+# ----------------------
+# OS / editor junk
+# ----------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ----------------------
+# Logs
+# ----------------------
+*.log
+
+# ----------------------
+# Temporary files
+# ----------------------
+*.tmp
+*.bak
+*.swp
