@@ -1,0 +1,27 @@
+# Core
+numpy>=1.23
+pandas>=1.5
+scipy>=1.9
+
+# Visualization
+matplotlib>=3.6
+seaborn>=0.12
+missingno>=0.5
+
+# Classical time series
+statsmodels>=0.14
+statsforecast>=1.6
+mlforecast>=0.10
+
+# Machine Learning
+scikit-learn>=1.2
+lightgbm>=4.0
+xgboost>=1.7
+
+# Utilities
+joblib>=1.2
+tqdm>=4.65
+
+# Jupyter / notebooks (optional but recommended)
+jupyterlab>=3.6
+ipykernel>=6.22

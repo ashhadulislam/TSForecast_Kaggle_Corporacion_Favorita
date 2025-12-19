@@ -19,7 +19,6 @@ input/
 *.joblib
 *.bin
 *.model
-*.txt
 
 # ----------------------
 # Outputs / submissions
