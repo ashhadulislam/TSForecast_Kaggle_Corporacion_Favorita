@@ -1,3 +1,4 @@
+
 # Time Series Forecasting – Corporación Favorita (Kaggle)
 
 This repository contains an end-to-end time series forecasting workflow for the **Corporación Favorita Grocery Sales Forecasting** Kaggle competition.  
@@ -12,6 +13,12 @@ The project progresses from exploratory data analysis to classical baselines, fo
 - Loads raw sales data  
 - Visualizes trends, seasonality, sparsity, and missingness  
 - Builds intuition about store–family level demand patterns  
+
+---
+
+### 01A_DataViz_Correlation.ipynb
+ - Testing Auto Correlation Function (ACF) and Partial ACF
+ - Weekly trends are visible. PACF shows dependance on previous day sales
 
 ---
 
